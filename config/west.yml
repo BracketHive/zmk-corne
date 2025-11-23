@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: brackethive
-      url-base: https://github.com/BracketHive
+      url-base: https://github.com/brackethive
   projects:
     - name: eyelash_corne
       url: https://github.com/a741725193/zmk-new_corne
