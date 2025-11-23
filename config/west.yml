@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: whoop-t
-      url-base: https://github.com/whoop-t
+    - name: brackethive
+      url-base: https://github.com/BracketHive
   projects:
     - name: eyelash_corne
       url: https://github.com/a741725193/zmk-new_corne
@@ -12,8 +12,8 @@ manifest:
       remote: zmkfirmware
       revision: v0.3.0
       import: app/west.yml
-    - name: nice-luffy-wanted
-      remote: whoop-t
+    - name: nice-view-edit
+      remote: brackethive
       revision: main
   self:
     path: config
