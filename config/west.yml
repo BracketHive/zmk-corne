@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: m165437
-      url-base: https://github.com/M165437
+    - name: whoop-t
+      url-base: https://github.com/whoop-t
   projects:
     - name: eyelash_corne
       url: https://github.com/a741725193/zmk-new_corne
@@ -12,8 +12,8 @@ manifest:
       remote: zmkfirmware
       revision: v0.3.0
       import: app/west.yml
-    - name: nice-view-gem
-      remote: m165437
+    - name: nice-luffy-wanted
+      remote: whoop-t
       revision: main
   self:
     path: config
